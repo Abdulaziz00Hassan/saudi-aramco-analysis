@@ -1,10 +1,10 @@
-# Saudi Aramco Stock Analysis 2025
+# Saudi Aramco Stock Analysis 2024
 
 ## Overview
 Exploratory data analysis of Saudi Aramco (2222.SR) stock price data for 2025.
 
 ## Key Findings
-- **Date Range:** Dec 2019 - 2025
+- **Date Range:** Dec 2019 - 2024
 - **Highest Close:** 38.64 SAR
 - **Lowest Close:** 22.98 SAR
 - **Avg Daily Return:** 0.05%
