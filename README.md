@@ -8,7 +8,8 @@ Exploratory data analysis of Saudi Aramco (2222.SR) stock price data for 2025.
 - **Highest Close:** 38.64 SAR
 - **Lowest Close:** 22.98 SAR
 - **Avg Daily Return:** 0.05%
-- **Volatility:** (Daily Range Avg) ~ 0.50 SAR
+- **Volatility:** (Std of Daily Returns): 1.1146%
+- **Market Sentiment:** The stock experienced more **Bearish days (630)** than **Bullish days (510)**, indicating persistent selling pressure despite the overall price recovery.
 
 ## Dashboard
 https://public.tableau.com/views/SaudiAramcoMarketAnalysisDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
