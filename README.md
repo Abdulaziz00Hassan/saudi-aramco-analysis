@@ -1,7 +1,7 @@
 # Saudi Aramco Stock Analysis 2024
 
 ## Overview
-Exploratory data analysis of Saudi Aramco (2222.SR) stock price data for 2025.
+Exploratory data analysis of Saudi Aramco (2222.SR) stock price data for 2024.
 
 ## Key Findings
 - **Date Range:** Dec 2019 - 2024
